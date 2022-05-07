@@ -45,17 +45,16 @@
 .name {
     color: #D6DBDF;
     font-size: 30px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
     color: #eeeeee;
-    font-size: 17px;
+    font-size: 20px;
     text-transform: uppercase;
     text-align: center;
 }
-
 
 .left-title {
     color: #eeeeee;
